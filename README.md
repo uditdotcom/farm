@@ -200,7 +200,7 @@ Made with ❤️ by Bhushan Satote. Happy farming! 🌾
 
 ---
 
-### Key Updates:
+Key Updates:
 1. Added **Tailwind CSS** and **Axios** to the technologies list.
 2. Included detailed implementation steps for the **Farmer Entry Form**, **Crop Entry Form**, and **Farmer-wise Crop List**.
 3. Added screenshots section for better visualization.
