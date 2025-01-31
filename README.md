@@ -191,7 +191,7 @@ Have questions or suggestions? Feel free to reach out:
 
 - **Email**: bhushansatote95@gmail.com
 - **GitHub**: [Bhushan-Satote](https://github.com/Bhushan-Satote/)
-- **LinkedIn**: [Bhushan Satote](www.linkedin.com/in/bhushan-satote)
+- **LinkedIn**: [Bhushan Satote](https://www.linkedin.com/in/bhushan-satote/)
 
 ---
 
