@@ -196,4 +196,3 @@ Have questions or suggestions? Feel free to reach out:
 ---
 
 Made with ❤️ by Bhushan Satote. Happy farming! 🌾
-```
