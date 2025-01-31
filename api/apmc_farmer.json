@@ -1,0 +1,128 @@
+{
+  "farmers": [
+    {
+      "farmerId": 1,
+      "name": "Ramesh Patel",
+      "contact": {
+        "phone": "9876543210",
+        "email": "ramesh.patel@example.com"
+      },
+      "farmLocation": "Ahmedabad, Gujarat",
+      "producedCrops": [
+        {
+          "cropName": "Wheat",
+          "category": "Grains",
+          "quantity": 1200,
+          "unit": "kg",
+          "pricePerUnit": 25,
+          "harvestSeason": "Winter"
+        },
+        {
+          "cropId": 102,
+          "cropName": "Tomato",
+          "category": "Vegetables",
+          "quantity": 500,
+          "unit": "kg",
+          "pricePerUnit": 40
+        }
+      ]
+    },
+    {
+      "farmerId": 2,
+      "name": "Suresh Mehta",
+      "contact": {
+        "phone": "9988776655",
+        "email": "suresh.mehta@example.com"
+      },
+      "farmLocation": "Nashik, Maharashtra",
+      "producedCrops": [
+        {
+          "cropId": 202,
+          "cropName": "Mango",
+          "category": "Fruits",
+          "quantity": 300,
+          "unit": "dozen",
+          "pricePerUnit": 120
+        }
+      ]
+    },
+    {
+      "farmerId": 4,
+      "name": "Bhushan Satote",
+      "contact": {
+        "phone": "7359556472",
+        "email": "bhushansatote95@gmail.com"
+      },
+      "farmLocation": "Surat",
+      "producedCrops": []
+    },
+    {
+      "farmerId": 4,
+      "name": "Bhushan Satote",
+      "contact": {
+        "phone": "7359556472",
+        "email": "bhushansatote95@gmail.com"
+      },
+      "farmLocation": "Surat",
+      "producedCrops": []
+    },
+    {
+      "farmerId": 5,
+      "name": "bhushu",
+      "contact": {
+        "phone": "7487863363",
+        "email": "bhushansatote95@gmail.com "
+      },
+      "farmLocation": "Surat",
+      "producedCrops": [
+        {
+          "cropId": 1,
+          "cropName": "Musk Melon",
+          "category": "Fruits",
+          "quantity": 120,
+          "unit": "kg",
+          "pricePerUnit": 20,
+          "harvestSeason": ""
+        }
+      ]
+    },
+    {
+      "farmerId": 6,
+      "name": "Bhushan Rajubhai Satote",
+      "contact": {
+        "phone": "7359556772",
+        "email": "satotebhushan401@gmail.com"
+      },
+      "farmLocation": "Jalgaon",
+      "producedCrops": [
+        {
+          "cropId": 1,
+          "cropName": "Water Melon",
+          "category": "Fruits",
+          "quantity": 120,
+          "unit": "kg",
+          "pricePerUnit": 30,
+          "harvestSeason": ""
+        },
+        {
+          "cropId": 2,
+          "cropName": "Chilly",
+          "category": "Vegetables",
+          "quantity": 30,
+          "unit": "kg",
+          "pricePerUnit": 50,
+          "harvestSeason": ""
+        },
+        {
+          "cropId": 3,
+          "cropName": "cotton",
+          "category": "Grains",
+          "quantity": 5,
+          "unit": "quintal",
+          "pricePerUnit": 50,
+          "harvestSeason": "winter"
+        }
+      ]
+    }
+  ]
+}
