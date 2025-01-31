@@ -175,11 +175,6 @@ We welcome contributions! If you'd like to contribute, please follow these steps
 4. Push to the branch (`git push origin feature/YourFeatureName`).
 5. Open a pull request.
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -194,13 +189,13 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 Have questions or suggestions? Feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/your-profile)
+- **Email**: bhushansatote95@gmail.com
+- **GitHub**: [Bhushan-Satote](https://github.com/Bhushan-Satote/)
+- **LinkedIn**: [Bhushan Satote](www.linkedin.com/in/bhushan-satote)
 
 ---
 
-Made with ❤️ by [Your Name]. Happy farming! 🌾
+Made with ❤️ by Bhushan Satote. Happy farming! 🌾
 ```
 
 ---
