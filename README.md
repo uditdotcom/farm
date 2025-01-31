@@ -117,14 +117,13 @@ Follow these steps to set up the project locally:
 
 ## 🖼️ Screenshots
 
-![Farmer Entry Form](screenshots/farmer-form.png)
-*Farmer Entry Form with Validation*
+![System Home](./frontend/Screenshot_31-1-2025_20292_localhost.jpeg)
 
-![Crop Entry Form](screenshots/crop-form.png)
-*Dynamic Crop Entry Form*
+![Farmer-Profile](./frontend/Screenshot_31-1-2025_203016_localhost.jpeg)
 
-![Farmer-wise Crop List](screenshots/crop-list.png)
-*Farmer-wise Crop List*
+![Farmer-wise Crop List](./frontend/Screenshot_31-1-2025_202947_localhost.jpeg)
+
+![List](./frontend/Screenshot_31-1-2025_203050_localhost.jpeg)
 
 ---
 
