@@ -183,16 +183,3 @@ We welcome contributions! If you'd like to contribute, please follow these steps
 - Thanks to [Tailwind CSS](https://tailwindcss.com/) for the amazing utility-first CSS framework.
 - Inspired by the need for efficient farm management solutions.
 
----
-
-## 📧 Contact
-
-Have questions or suggestions? Feel free to reach out:
-
-- **Email**: bhushansatote95@gmail.com
-- **GitHub**: [Bhushan-Satote](https://github.com/Bhushan-Satote/)
-- **LinkedIn**: [Bhushan Satote](https://www.linkedin.com/in/bhushan-satote/)
-
----
-
-Made with ❤️ by Bhushan Satote. Happy farming! 🌾
